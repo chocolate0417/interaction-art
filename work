@@ -1,5 +1,6 @@
 # interaction-art
-//the code we may need
+
+
 import processing.video.*;
 // Variable for capture device
 Capture video;
